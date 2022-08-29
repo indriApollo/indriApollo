@@ -11,7 +11,7 @@ IT Technician
 2014 - 2017  
 Bachelor's degree Embedded-ICT
 
-# Experience
+## Experience
 
 ## Ubidata (https://ubidata.com)
 September 2017 - Present
